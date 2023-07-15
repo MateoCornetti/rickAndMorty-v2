@@ -1,4 +1,3 @@
-RickAndMortyApp
 Rick And Morty App hecha por Mateo Cornetti.
 
 Inicio de sesion hecho a modo de prueba, el email a ingresar es: maildeprueba@gmail.com, las password es: Pass1234.

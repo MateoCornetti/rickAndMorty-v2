@@ -20,8 +20,9 @@ const Texto = styled.h1`
 export const About = () => {
   return (
     <Cartita>
-        <h1>App de Rick & Morty creada por Mateo Cornetti a modo de proyecto
-            de práctica para el curso de fullstack de soyHenry
+        <h1>Página sobre Rick & Morty creada por Mateo Cornetti a modo de proyecto
+            de práctica para el curso de fullstack de soyHenry. 
+            Hecha con React y Node.js
         </h1>
     </Cartita>
   )
